@@ -6,3 +6,4 @@ angular.module('video-player', [])
       'https://www.youtube.com/**'
     ]);
   });
+ 
