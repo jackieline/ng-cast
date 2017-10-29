@@ -19,9 +19,5 @@ angular.module('video-player')
         console.log(data);
         console.error(data);
       });
-
-// .error(function() {
-//         alert('error');
-//       });
     };
   });
